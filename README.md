@@ -7,11 +7,20 @@
   <img align="left" alt="Mortuza's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />
 </a>
 <a href="https://www.hackerrank.com/mortuzahossain?hr_r=1">
-  <img align="left" alt="Mortuza's HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
+  <img align="left" alt="Mortuza's HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/hackerrank.svg" />
 </a>
 <a href="https://www.youtube.com/channel/UCX-myQM9f8FJsPaYm1xHgBQ?view_as=subscriber">
   <img align="left" alt="Mortuza's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/youtube.svg" />
 </a>
+<br />
+
+Hi, I'm [Mortuza Hossain!](https://mortuzahossain.github.io/), a passionate self-taught Android Developer 🚀 from Bangladesh.
+
+**Languages and Tools:**  
+
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/android.svg"></code>
+
+
 
 <!--
 **mortuzahossain/mortuzahossain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
