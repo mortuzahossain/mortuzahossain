@@ -33,6 +33,12 @@ Hi, I'm [Mortuza Hossain!](https://mortuzahossain.github.io/), a passionate self
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/firebase.svg"></code>
 
 
+📈 My GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mortuzahossain&show_icons=true&theme=radical" alt="mortuzahossain" />
+
+
+
+
 <!--
 **mortuzahossain/mortuzahossain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
