@@ -12,9 +12,7 @@
 <a href="https://www.youtube.com/channel/UCX-myQM9f8FJsPaYm1xHgBQ?view_as=subscriber">
   <img align="left" alt="Mortuza's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/youtube.svg" />
 </a>
-<br />
-<br />
-<br />
+<br/><br/>
 Hi, I'm [Mortuza Hossain!](https://mortuzahossain.github.io/), a passionate self-taught Android Developer 🚀 from Bangladesh.
 
 **Languages and Tools:**  
