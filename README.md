@@ -19,7 +19,13 @@ Hi, I'm [Mortuza Hossain!](https://mortuzahossain.github.io/), a passionate self
 **Languages and Tools:**  
 
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/android.svg"></code>
-
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/java.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/kotlin.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/csharp.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/python.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/php.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/html5.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/css3.svg"></code>
 
 
 <!--
