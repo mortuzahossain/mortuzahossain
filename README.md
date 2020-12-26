@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <a href="https://www.linkedin.com/in/mortuzahossain/">
   <img align="left" alt="Mortuza's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -12,7 +12,7 @@
 <a href="https://www.youtube.com/channel/UCX-myQM9f8FJsPaYm1xHgBQ?view_as=subscriber">
   <img align="left" alt="Mortuza's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/youtube.svg" />
 </a>
-
+![](https://visitor-badge.glitch.me/badge?page_id=mortuzahossain.mortuzahossain)
 <br/>
 
 Hi, I'm [Mortuza Hossain!](https://mortuzahossain.github.io/), a passionate self-taught Android Developer 🚀 from Bangladesh.
