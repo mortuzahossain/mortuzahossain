@@ -36,10 +36,10 @@ Hi, I'm [Mortuza Hossain!](https://mortuzahossain.github.io/), a passionate self
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/firebase.svg"></code>
 
 **Andrdoid Apps in Playstore:**  
-<a href="https://play.google.com/store/apps/details?id=io.github.mortuzahossain.zakatcalculator&hl=bn&gl=US">
-  <img align="left" alt="Zakat Calculator" width="100px" src="https://play-lh.googleusercontent.com/3Jww0EqpY21mXSh2b8vr2V2FeOy3pDhNoNMWP4ETg_NnTNExya59_emhZEZD0wBs6UwL=s180-rw" />
-</a>
-<br/>
+<code><a href="https://play.google.com/store/apps/details?id=io.github.mortuzahossain.zakatcalculator&hl=bn&gl=US" target="_blank">
+  <img align="left" alt="Zakat Calculator" width="80px" src="https://play-lh.googleusercontent.com/3Jww0EqpY21mXSh2b8vr2V2FeOy3pDhNoNMWP4ETg_NnTNExya59_emhZEZD0wBs6UwL=s180-rw" />
+</a></code>
+<br/><br/><br/><br/>
 
 **Talking about Personal Stuffs:**
 
