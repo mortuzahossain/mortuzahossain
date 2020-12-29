@@ -37,9 +37,10 @@ Hi, I'm [Mortuza Hossain!](https://mortuzahossain.github.io/), a passionate self
 
 **Andrdoid Apps in Playstore:**  
 <a href="https://play.google.com/store/apps/details?id=io.github.mortuzahossain.zakatcalculator&hl=bn&gl=US">
-  <img align="left" alt="Zakat Calculator" width="22px" src="https://play-lh.googleusercontent.com/3Jww0EqpY21mXSh2b8vr2V2FeOy3pDhNoNMWP4ETg_NnTNExya59_emhZEZD0wBs6UwL=s180-rw" />
+  <img align="left" alt="Zakat Calculator" width="100px" src="https://play-lh.googleusercontent.com/3Jww0EqpY21mXSh2b8vr2V2FeOy3pDhNoNMWP4ETg_NnTNExya59_emhZEZD0wBs6UwL=s180-rw" />
 </a>
-  
+<br/>
+
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on Flora Systems Ltd:wink:;
