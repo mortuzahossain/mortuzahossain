@@ -49,7 +49,7 @@ Hi, I'm [Mortuza Hossain!](https://mortuzahossain.github.io/), a passionate self
 - 👨🏽‍💻 I’m currently working on Flora Systems Ltd:wink:;
 - 🌱 I’m currently learning Asp .net MVC; 
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@abhisheknaiidu](https://www.facebook.com/mdmortuza.hossain);
+- 📫 How to reach me: [Facebook](https://www.facebook.com/mdmortuza.hossain);
 - 📝[Resume](https://drive.google.com/file/d/1S7jKDMPqFlL7WsqpJj04OB9gtfnePS80/view?usp=sharing)
 - 👯[Website](https://mortuzahossain.github.io/)
 
