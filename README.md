@@ -36,17 +36,16 @@ Hi, I'm [Mortuza Hossain!](https://mortuzahossain.github.io/), a passionate self
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/firebase.svg"></code>
 
 **Andrdoid Apps in Playstore:**  
+
 <a href="https://play.google.com/store/apps/details?id=io.github.mortuzahossain.zakatcalculator&hl=bn&gl=US" target="_blank">
   <img align="left" alt="Zakat Calculator" width="80px" src="https://play-lh.googleusercontent.com/3Jww0EqpY21mXSh2b8vr2V2FeOy3pDhNoNMWP4ETg_NnTNExya59_emhZEZD0wBs6UwL=s180-rw" />
 </a>
 <a href="https://play.google.com/store/apps/details?id=io.github.mortuzahossain.securenote" target="_blank">
   <img align="left" alt="Zakat Calculator" width="80px" src="https://play-lh.googleusercontent.com/5Clzl19n5IwjNbpyxnYeQ2zs9CElydvvUlmbq3BLK-s5-ymd23mBDw9rp_VwODOp6TPz=s180-rw" />
 </a>
-
 <a href="https://play.google.com/store/apps/details?id=io.github.mortuzahossain.qrscanner" target="_blank">
   <img align="left" alt="Zakat Calculator" width="80px" src="https://play-lh.googleusercontent.com/fjeRuXP5OqbUy3F94tldLLATLvxd7A2go5FbCDrRKulwn6O2Mkcys-SejvJvLArNdg=s360-rw" />
 </a>
-
 <a href="https://play.google.com/store/apps/details?id=io.github.mortuzahossain.thousandquotes" target="_blank">
   <img align="left" alt="Zakat Calculator" width="80px" src="https://play-lh.googleusercontent.com/qZr3DZPJO8Z9UfsFxZKeIIzywnFRTiO2FcmBbbZflsCm0MwgIeiASWDF2eRh_EtQ2Q=s180-rw" />
 </a>
