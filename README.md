@@ -44,7 +44,7 @@ Hi, I'm [Mortuza Hossain!](https://mortuzahossain.github.io/), a passionate self
   <img align="left" alt="Zakat Calculator" width="80px" src="https://play-lh.googleusercontent.com/5Clzl19n5IwjNbpyxnYeQ2zs9CElydvvUlmbq3BLK-s5-ymd23mBDw9rp_VwODOp6TPz=s180-rw" />
 </a>
 <a href="https://play.google.com/store/apps/details?id=io.github.mortuzahossain.qrscanner" target="_blank">
-  <img align="left" alt="Zakat Calculator" width="80px" src="https://play-lh.googleusercontent.com/fjeRuXP5OqbUy3F94tldLLATLvxd7A2go5FbCDrRKulwn6O2Mkcys-SejvJvLArNdg=s360-rw" />
+  <img align="left" alt="Zakat Calculator" width="80px" src="https://play-lh.googleusercontent.com/fjeRuXP5OqbUy3F94tldLLATLvxd7A2go5FbCDrRKulwn6O2Mkcys-SejvJvLArNdg=s180-rw" />
 </a>
 <a href="https://play.google.com/store/apps/details?id=io.github.mortuzahossain.thousandquotes" target="_blank">
   <img align="left" alt="Zakat Calculator" width="80px" src="https://play-lh.googleusercontent.com/qZr3DZPJO8Z9UfsFxZKeIIzywnFRTiO2FcmBbbZflsCm0MwgIeiASWDF2eRh_EtQ2Q=s180-rw" />
