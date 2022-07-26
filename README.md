@@ -39,7 +39,14 @@ Hi, I'm [Mortuza Hossain!](https://mortuzahossain.github.io/), a passionate self
 
 <a href="https://play.google.com/store/apps/details?id=com.shimantobank.app.shimantobankapp" target="_blank">
   <img align="left" alt="Connect Internet Banking" width="80px" src="https://play-lh.googleusercontent.com/a6HwsLg3_4YWz7c0h4ST9qqMrY5Z-kzykaFZng9TOPFfYvJ7r_eYZfiHZenhGDTuXKU=s180-rw" />
-</a><a href="https://play.google.com/store/apps/details?id=io.github.mortuzahossain.zakatcalculator&hl=bn&gl=US" target="_blank">
+</a>
+<a href="https://play.google.com/store/apps/details?id=com.OBL.OKwallet&hl=bn&gl=US" target="_blank">
+  <img align="left" alt="Zakat Calculator" width="80px" src="https://play-lh.googleusercontent.com/7Zbe0t5zZJK8PjiyOIgS1D8Lxo5irm1YNDS-oxsb_LfOAFop-YomRKmZ6_hPo-6X0yQ=s180-rw" />
+</a>
+<a href="https://play.google.com/store/apps/details?id=com.bengal.newdigitalbanking" target="_blank">
+  <img align="left" alt="Zakat Calculator" width="80px" src="https://play-lh.googleusercontent.com/5-4lWrwvJoKqd6Srvyb8bct_Z4DkdoceAVE-PwmcCRi8nlzq2P7soW1B4vVbTMwSfEVY=s180-rw" />
+</a>
+<a href="https://play.google.com/store/apps/details?id=io.github.mortuzahossain.zakatcalculator&hl=bn&gl=US" target="_blank">
   <img align="left" alt="Zakat Calculator" width="80px" src="https://play-lh.googleusercontent.com/3Jww0EqpY21mXSh2b8vr2V2FeOy3pDhNoNMWP4ETg_NnTNExya59_emhZEZD0wBs6UwL=s180-rw" />
 </a>
 <a href="https://play.google.com/store/apps/details?id=io.github.mortuzahossain.securenote" target="_blank">
@@ -51,9 +58,7 @@ Hi, I'm [Mortuza Hossain!](https://mortuzahossain.github.io/), a passionate self
 <a href="https://play.google.com/store/apps/details?id=io.github.mortuzahossain.thousandquotes" target="_blank">
   <img align="left" alt="Zakat Calculator" width="80px" src="https://play-lh.googleusercontent.com/qZr3DZPJO8Z9UfsFxZKeIIzywnFRTiO2FcmBbbZflsCm0MwgIeiASWDF2eRh_EtQ2Q=s180-rw" />
 </a>
-<a href="https://play.google.com/store/apps/details?id=com.bengal.newdigitalbanking" target="_blank">
-  <img align="left" alt="Zakat Calculator" width="80px" src="https://play-lh.googleusercontent.com/5-4lWrwvJoKqd6Srvyb8bct_Z4DkdoceAVE-PwmcCRi8nlzq2P7soW1B4vVbTMwSfEVY=s180-rw" />
-</a>
+
 <br/><br/><br/><br/>
 
 **Talking about Personal Stuffs:**
