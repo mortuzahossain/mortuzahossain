@@ -57,7 +57,7 @@ Hi, I'm [Mortuza Hossain!](https://mortuzahossain.github.io/), a passionate self
 <br/><br/><br/><br/>
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on Flora Systems Ltd:wink:;
+- 👨🏽‍💻 I’m currently working on One Bank Ltd:wink:;
 - 🌱 I’m currently learning Asp .net MVC; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [Facebook](https://www.facebook.com/mdmortuza.hossain);
