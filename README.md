@@ -65,5 +65,7 @@ Hi, I'm [Mortuza Hossain!](https://mortuzahossain.github.io/), a passionate self
 - 👯[Website](https://mortuzahossain.github.io/)
 
 📈 My GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mortuzahossain&show_icons=true&theme=radical" alt="mortuzahossain" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mortuzahossain&show_icons=true&theme=radical" alt="mortuzahossain" /></p>
 
+### :fire: My Stats :
+<p align="center"> <img src="http://github-readme-streak-stats.herokuapp.com?user=mortuzahossain&theme=dark&background=000000" alt="mortuzahossain" /></p> 
