@@ -17,7 +17,7 @@
 
 <br/>
 
-Hi, I'm [Mortuza Hossain!](https://mortuzahossain.github.io/), a passionate self-taught Android Developer 🚀 from Bangladesh.
+Hi, I'm [Mortuza Hossain!](https://mortuzahossain.github.io/), a passionate self-taught Mobile Application Developer 🚀 from Bangladesh.
 
 **Languages and Tools:**  
 
