@@ -63,7 +63,7 @@ Hi, I'm [Mortuza Hossain!](https://mortuzahossain.github.io/), a passionate self
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: [Facebook](https://www.facebook.com/mdmortuza.hossain)
 - 📝[Resume](https://drive.google.com/file/d/1S7jKDMPqFlL7WsqpJj04OB9gtfnePS80/view?usp=sharing)
-- 👯[Website](https://mortuzahossain.github.io/)
+<!-- - 👯[Website](https://mortuzahossain.github.io/) -->
 
 ### :fire: My Stats :
 <p align="center"> <img src="http://github-readme-streak-stats.herokuapp.com?user=mortuzahossain&theme=dark&background=000000" alt="mortuzahossain" /></p> 
