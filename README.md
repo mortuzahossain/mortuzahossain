@@ -59,6 +59,9 @@ Hi, I'm [Mortuza Hossain!](https://mortuzahossain.github.io/), a passionate self
 <a href="https://apps.apple.com/us/app/padma-wallet/id1659705002?platform=iphone" target="_blank">
   <img align="left" alt="PadmaWallet" width="80px" src="https://play-lh.googleusercontent.com/ZorV0uBkKg4zEaOj10D_T473fA3sRRW9mfmig_iAUu-6494FvUe7walZAQFmgnkQoLTV=w240-h480-rw" />
 </a>
+<a href="https://apps.apple.com/us/app/bengal-i-banking/id1589932822?platform=iphone" target="_blank">
+  <img align="left" alt="Zakat Calculator" width="80px" src="https://play-lh.googleusercontent.com/5-4lWrwvJoKqd6Srvyb8bct_Z4DkdoceAVE-PwmcCRi8nlzq2P7soW1B4vVbTMwSfEVY=s180-rw" />
+</a>
 <br/><br/><br/><br/>
 **Talking about Personal Stuffs:**
 
