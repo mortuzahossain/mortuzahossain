@@ -9,7 +9,7 @@
 <a href="https://www.hackerrank.com/mortuzahossain?hr_r=1">
   <img align="left" alt="Mortuza's HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/hackerrank.svg" />
 </a>
-<a href="[https://www.hackerrank.com/mortuzahossain?hr_r=1](https://leetcode.com/mortuzahossain/)">
+<a href="https://leetcode.com/mortuzahossain/">
   <img align="left" alt="Mortuza's LeetCode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/leetcode.svg" />
 </a>
 <a href="https://www.youtube.com/channel/UCX-myQM9f8FJsPaYm1xHgBQ?view_as=subscriber">
