@@ -46,10 +46,13 @@ Hi, I'm [Mortuza Hossain!](https://mortuzahossain.github.io/), a passionate self
   <img align="left" alt="OkWallet" width="80px" src="https://play-lh.googleusercontent.com/7Zbe0t5zZJK8PjiyOIgS1D8Lxo5irm1YNDS-oxsb_LfOAFop-YomRKmZ6_hPo-6X0yQ=s180-rw" />
 </a>
 <a href="https://play.google.com/store/apps/details?id=com.bengal.newdigitalbanking" target="_blank">
-  <img align="left" alt="Zakat Calculator" width="80px" src="https://play-lh.googleusercontent.com/5-4lWrwvJoKqd6Srvyb8bct_Z4DkdoceAVE-PwmcCRi8nlzq2P7soW1B4vVbTMwSfEVY=s180-rw" />
+  <img align="left" alt="Bengal iBanking" width="80px" src="https://play-lh.googleusercontent.com/5-4lWrwvJoKqd6Srvyb8bct_Z4DkdoceAVE-PwmcCRi8nlzq2P7soW1B4vVbTMwSfEVY=s180-rw" />
 </a>
 <a href="https://play.google.com/store/apps/details?id=com.padmabank.padmawallet" target="_blank">
   <img align="left" alt="PadmaWallet" width="80px" src="https://play-lh.googleusercontent.com/ZorV0uBkKg4zEaOj10D_T473fA3sRRW9mfmig_iAUu-6494FvUe7walZAQFmgnkQoLTV=w240-h480-rw" />
+</a>
+<a href="https://play.google.com/store/apps/details?id=com.iw.app" target="_blank">
+  <img align="left" alt="IslamicWallet" width="80px" src="https://play-lh.googleusercontent.com/2LF1EJkcIkZZDaUvM50UHEV2-EVV2NT1GCOwk1CeTIeUsUfltinVuPiT-Uy9xd87_zw=w240-h480-rw" />
 </a>
 <br/><br/><br/><br/>
 
@@ -64,7 +67,10 @@ Hi, I'm [Mortuza Hossain!](https://mortuzahossain.github.io/), a passionate self
   <img align="left" alt="PadmaWallet" width="80px" src="https://play-lh.googleusercontent.com/ZorV0uBkKg4zEaOj10D_T473fA3sRRW9mfmig_iAUu-6494FvUe7walZAQFmgnkQoLTV=w240-h480-rw" />
 </a>
 <a href="https://apps.apple.com/us/app/bengal-i-banking/id1589932822?platform=iphone" target="_blank">
-  <img align="left" alt="Zakat Calculator" width="80px" src="https://play-lh.googleusercontent.com/5-4lWrwvJoKqd6Srvyb8bct_Z4DkdoceAVE-PwmcCRi8nlzq2P7soW1B4vVbTMwSfEVY=s180-rw" />
+  <img align="left" alt="Bengal iBanking" width="80px" src="https://play-lh.googleusercontent.com/5-4lWrwvJoKqd6Srvyb8bct_Z4DkdoceAVE-PwmcCRi8nlzq2P7soW1B4vVbTMwSfEVY=s180-rw" />
+</a>
+<a href="https://apps.apple.com/us/app/islamic-wallet/id1438377413?platform=iphone" target="_blank">
+  <img align="left" alt="IslamicWallet" width="80px" src="https://play-lh.googleusercontent.com/2LF1EJkcIkZZDaUvM50UHEV2-EVV2NT1GCOwk1CeTIeUsUfltinVuPiT-Uy9xd87_zw=w240-h480-rw" />
 </a>
 <br/><br/><br/><br/>
 **Talking about Personal Stuffs:**
