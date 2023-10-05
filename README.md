@@ -40,37 +40,37 @@ Hi, I'm [Mortuza Hossain!](https://mortuzahossain.github.io/), a passionate self
 **Andrdoid Apps in Playstore:**  
 
 <a href="https://play.google.com/store/apps/details?id=com.shimantobank.app.shimantobankapp" target="_blank">
-  <img style="padding: 10px;border: 1px solid beige;border-radius: 4px;" alt="Connect Internet Banking" width="80px" src="https://play-lh.googleusercontent.com/a6HwsLg3_4YWz7c0h4ST9qqMrY5Z-kzykaFZng9TOPFfYvJ7r_eYZfiHZenhGDTuXKU=s180-rw" />
+  <img align="left" alt="Connect Internet Banking" width="80px" src="https://play-lh.googleusercontent.com/a6HwsLg3_4YWz7c0h4ST9qqMrY5Z-kzykaFZng9TOPFfYvJ7r_eYZfiHZenhGDTuXKU=s180-rw" />
 </a>
 <a href="https://play.google.com/store/apps/details?id=com.OBL.OKwallet&hl=bn&gl=US" target="_blank">
-  <img style="padding: 10px;border: 1px solid beige;border-radius: 4px;" alt="OkWallet" width="80px" src="https://play-lh.googleusercontent.com/7Zbe0t5zZJK8PjiyOIgS1D8Lxo5irm1YNDS-oxsb_LfOAFop-YomRKmZ6_hPo-6X0yQ=s180-rw" />
+  <img align="left" alt="OkWallet" width="80px" src="https://play-lh.googleusercontent.com/7Zbe0t5zZJK8PjiyOIgS1D8Lxo5irm1YNDS-oxsb_LfOAFop-YomRKmZ6_hPo-6X0yQ=s180-rw" />
 </a>
 <a href="https://play.google.com/store/apps/details?id=com.bengal.newdigitalbanking" target="_blank">
-  <img style="padding: 10px;border: 1px solid beige;border-radius: 4px;" alt="Bengal iBanking" width="80px" src="https://play-lh.googleusercontent.com/5-4lWrwvJoKqd6Srvyb8bct_Z4DkdoceAVE-PwmcCRi8nlzq2P7soW1B4vVbTMwSfEVY=s180-rw" />
+  <img align="left" alt="Bengal iBanking" width="80px" src="https://play-lh.googleusercontent.com/5-4lWrwvJoKqd6Srvyb8bct_Z4DkdoceAVE-PwmcCRi8nlzq2P7soW1B4vVbTMwSfEVY=s180-rw" />
 </a>
 <a href="https://play.google.com/store/apps/details?id=com.padmabank.padmawallet" target="_blank">
-  <img style="padding: 10px;border: 1px solid beige;border-radius: 4px;" alt="PadmaWallet" width="80px" src="https://play-lh.googleusercontent.com/ZorV0uBkKg4zEaOj10D_T473fA3sRRW9mfmig_iAUu-6494FvUe7walZAQFmgnkQoLTV=w240-h480-rw" />
+  <img align="left" alt="PadmaWallet" width="80px" src="https://play-lh.googleusercontent.com/ZorV0uBkKg4zEaOj10D_T473fA3sRRW9mfmig_iAUu-6494FvUe7walZAQFmgnkQoLTV=w240-h480-rw" />
 </a>
 <a href="https://play.google.com/store/apps/details?id=com.iw.app" target="_blank">
-  <img style="padding: 10px;border: 1px solid beige;border-radius: 4px;" alt="IslamicWallet" width="80px" src="https://play-lh.googleusercontent.com/2LF1EJkcIkZZDaUvM50UHEV2-EVV2NT1GCOwk1CeTIeUsUfltinVuPiT-Uy9xd87_zw=w240-h480-rw" />
+  <img align="left" alt="IslamicWallet" width="80px" src="https://play-lh.googleusercontent.com/2LF1EJkcIkZZDaUvM50UHEV2-EVV2NT1GCOwk1CeTIeUsUfltinVuPiT-Uy9xd87_zw=w240-h480-rw" />
 </a>
 <br/><br/><br/><br/>
 
 **iOS Apps in AppStore:**  
-<a  href="https://apps.apple.com/us/app/connect-internet-banking/id1513471000" target="_blank">
-  <img style="padding: 10px;border: 1px solid beige;border-radius: 4px;" alt="Connect Internet Banking" width="80px" src="https://play-lh.googleusercontent.com/a6HwsLg3_4YWz7c0h4ST9qqMrY5Z-kzykaFZng9TOPFfYvJ7r_eYZfiHZenhGDTuXKU=s180-rw" />
+<a href="https://apps.apple.com/us/app/connect-internet-banking/id1513471000" target="_blank">
+  <img align="left" alt="Connect Internet Banking" width="80px" src="https://play-lh.googleusercontent.com/a6HwsLg3_4YWz7c0h4ST9qqMrY5Z-kzykaFZng9TOPFfYvJ7r_eYZfiHZenhGDTuXKU=s180-rw" />
 </a>
 <a href="https://apps.apple.com/us/app/ok-wallet/id1437495450" target="_blank">
-  <img style="padding: 10px;border: 1px solid beige;border-radius: 4px;"  alt="OkWallet" width="80px" src="https://play-lh.googleusercontent.com/7Zbe0t5zZJK8PjiyOIgS1D8Lxo5irm1YNDS-oxsb_LfOAFop-YomRKmZ6_hPo-6X0yQ=s180-rw" />
+  <img align="left" alt="OkWallet" width="80px" src="https://play-lh.googleusercontent.com/7Zbe0t5zZJK8PjiyOIgS1D8Lxo5irm1YNDS-oxsb_LfOAFop-YomRKmZ6_hPo-6X0yQ=s180-rw" />
 </a>
 <a href="https://apps.apple.com/us/app/padma-wallet/id1659705002?platform=iphone" target="_blank">
-  <img style="padding: 10px;border: 1px solid beige;border-radius: 4px;"  alt="PadmaWallet" width="80px" src="https://play-lh.googleusercontent.com/ZorV0uBkKg4zEaOj10D_T473fA3sRRW9mfmig_iAUu-6494FvUe7walZAQFmgnkQoLTV=w240-h480-rw" />
+  <img align="left" alt="PadmaWallet" width="80px" src="https://play-lh.googleusercontent.com/ZorV0uBkKg4zEaOj10D_T473fA3sRRW9mfmig_iAUu-6494FvUe7walZAQFmgnkQoLTV=w240-h480-rw" />
 </a>
 <a href="https://apps.apple.com/us/app/bengal-i-banking/id1589932822?platform=iphone" target="_blank">
-  <img style="padding: 10px;border: 1px solid beige;border-radius: 4px;" alt="Bengal iBanking" width="80px" src="https://play-lh.googleusercontent.com/5-4lWrwvJoKqd6Srvyb8bct_Z4DkdoceAVE-PwmcCRi8nlzq2P7soW1B4vVbTMwSfEVY=s180-rw" />
+  <img align="left" alt="Bengal iBanking" width="80px" src="https://play-lh.googleusercontent.com/5-4lWrwvJoKqd6Srvyb8bct_Z4DkdoceAVE-PwmcCRi8nlzq2P7soW1B4vVbTMwSfEVY=s180-rw" />
 </a>
 <a href="https://apps.apple.com/us/app/islamic-wallet/id1438377413?platform=iphone" target="_blank">
-  <img style="padding: 10px;border: 1px solid beige;border-radius: 4px;"  alt="IslamicWallet" width="80px" src="https://play-lh.googleusercontent.com/2LF1EJkcIkZZDaUvM50UHEV2-EVV2NT1GCOwk1CeTIeUsUfltinVuPiT-Uy9xd87_zw=w240-h480-rw" />
+  <img align="left" alt="IslamicWallet" width="80px" src="https://play-lh.googleusercontent.com/2LF1EJkcIkZZDaUvM50UHEV2-EVV2NT1GCOwk1CeTIeUsUfltinVuPiT-Uy9xd87_zw=w240-h480-rw" />
 </a>
 <br/><br/><br/><br/>
 **Talking about Personal Stuffs:**
