@@ -77,11 +77,11 @@ Hi, I'm [Mortuza Hossain!](https://mortuzahossain.github.io/), a passionate self
 
 - 👨🏽‍💻 I’m currently working on Al-Arafah Islami Bank Limited:wink:
 - 🌱 I’m currently learning Asp .net MVC
-- Currently studying in EMCS at CoU
+- 📝 Currently studying in Executive MSc in Computer Science at Comilla University
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: [Facebook](https://www.facebook.com/mdmortuza.hossain)
-- 📝 [Resume](https://drive.google.com/file/d/1LA16CaGQPrAz9ryojbpOfm1RZijpj7yQ/view?usp=share_link)
-- 👯 [Website](https://mortuzahossain.github.io/)
+- 📝 Download my [Resume](https://drive.google.com/file/d/1LA16CaGQPrAz9ryojbpOfm1RZijpj7yQ/view?usp=share_link)
+- 🕸️ View my portfolio [Website](https://mortuzahossain.github.io/)
 
 ### :fire: My Stats :
 <p align="center"> <img src="http://github-readme-streak-stats.herokuapp.com?user=mortuzahossain&theme=dark&background=000000" alt="mortuzahossain" /></p> 
