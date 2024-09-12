@@ -25,7 +25,7 @@ Hi, I'm [Mortuza Hossain!](https://mortuzahossain.github.io/), a passionate self
 
 **Languages and Tools:**  
   
-<img src="https://skillicons.dev/icons?i=androidstudio,apple,flutter,git,docker,laravel,dotnet,express,nodejs,mysql,firebase,java,kotlin,swift,php,c,py,dart&perline=9" />
+<img src="https://skillicons.dev/icons?i=androidstudio,apple,java,kotlin,swift,flutter,git,docker,laravel,dotnet,express,nodejs,mysql,firebase,php,c,py,dart&perline=9" />
 
 
 **Andrdoid Apps in Playstore:**  
