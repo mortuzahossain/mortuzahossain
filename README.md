@@ -24,18 +24,9 @@
 Hi, I'm [Mortuza Hossain!](https://mortuzahossain.github.io/), a passionate self-taught Mobile Application Developer 🚀 from Bangladesh.
 
 **Languages and Tools:**  
+  
+<img src="https://skillicons.dev/icons?i=androidstudio,apple,flutter,git,docker,laravel,dotnet,express,nodejs,mysql,firebase,java,kotlin,swift,php,c,py,dart&perline=9" />
 
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/android.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/ios.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/java.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/kotlin.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/swift.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/csharp.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/python.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/php.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/microsoftsqlserver.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mysql.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/firebase.svg"></code>
 
 **Andrdoid Apps in Playstore:**  
 
