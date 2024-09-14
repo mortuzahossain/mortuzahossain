@@ -16,7 +16,6 @@
   <img align="left" alt="Mortuza's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/youtube.svg" />
 </a>
 
-<!-- ![](https://visitor-badge.glitch.me/badge?page_id=mortuzahossain) -->
 
 <br/>
 <br/>
