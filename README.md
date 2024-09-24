@@ -27,7 +27,7 @@ Hi, I'm [Mortuza Hossain!](https://mortuzahossain.github.io/), a passionate self
 <img src="https://skillicons.dev/icons?i=androidstudio,apple,kotlin,java,swift,dart,flutter,git,docker,php,laravel,cs,dotnet,nodejs,express,mysql,firebase,redis,py,c&perline=10" />
 
 
-**Andrdoid Apps in Playstore:**  
+**Andrdoid Apps in Playstore:**  <br/>
 
 <a href="https://play.google.com/store/apps/details?id=com.shimantobank.app.shimantobankapp" target="_blank">
   <img align="left" alt="Connect Internet Banking" width="80px" src="https://play-lh.googleusercontent.com/a6HwsLg3_4YWz7c0h4ST9qqMrY5Z-kzykaFZng9TOPFfYvJ7r_eYZfiHZenhGDTuXKU=s180-rw" />
@@ -49,7 +49,7 @@ Hi, I'm [Mortuza Hossain!](https://mortuzahossain.github.io/), a passionate self
 </a>
 <br/><br/><br/><br/>
 
-**iOS Apps in AppStore:**  
+**iOS Apps in AppStore:**  <br/><br/>
 <a href="https://apps.apple.com/us/app/connect-internet-banking/id1513471000" target="_blank">
   <img align="left" alt="Connect Internet Banking" width="80px" src="https://play-lh.googleusercontent.com/a6HwsLg3_4YWz7c0h4ST9qqMrY5Z-kzykaFZng9TOPFfYvJ7r_eYZfiHZenhGDTuXKU=s180-rw" />
 </a>
@@ -71,7 +71,7 @@ Hi, I'm [Mortuza Hossain!](https://mortuzahossain.github.io/), a passionate self
 <a href="https://apps.apple.com/us/app/real-estambul/id6468934767?platform=iphone" target="_blank">
   <img align="left" alt="Real Estambul" width="80px" src="https://play-lh.googleusercontent.com/Xav-_mRdMUvDWCsxuV8hzE8Nf2Nig7cJ-HeRYUHzEnq5R7lZ_mElNuRCIp9404Nz=w480-h960-rw" />
 </a>
-<br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/>
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on Al-Arafah Islami Bank Limited :wink:
