@@ -54,6 +54,9 @@ Hi, I'm [Mortuza Hossain!](https://mortuzahossain.github.io/), a passionate self
 <a href="https://play.google.com/store/apps/details?id=com.burnabeenews.app" target="_blank">
   <img align="left" alt="Burnabee News" width="80px" src="https://play-lh.googleusercontent.com/_ae_MdU4WXjgN0hEI7qXNxc5bBDnvnjg-NOhzQiFmIq_pGiv93b1_1rJK9ZqqltM8Q=w480-h960" />
 </a>
+<a href="https://play.google.com/store/apps/details?id=com.nullsolutions.mlxapp" target="_blank">
+  <img align="left" alt="MLX Scanner" width="80px" src="https://play-lh.googleusercontent.com/uE8JP2afocY86ha-Q8NSBW03Lp5Lj2yD8SrbkmNKWVg1QpRpOASUviy-3gc9gxX9JlI=w480-h960-rw" />
+</a>
 <br/><br/><br/><br/>
 
 **iOS Apps in AppStore:**  <br/><br/>
