@@ -44,6 +44,10 @@ Hi, I'm [Mortuza Hossain!](https://mortuzahossain.github.io/), a passionate self
 <a href="https://play.google.com/store/apps/details?id=com.iw.app" target="_blank">
   <img align="left" alt="IslamicWallet" width="80px" src="https://play-lh.googleusercontent.com/2LF1EJkcIkZZDaUvM50UHEV2-EVV2NT1GCOwk1CeTIeUsUfltinVuPiT-Uy9xd87_zw=w240-h480-rw" />
 </a>
+<a href="https://play.google.com/store/apps/details?id=com.shimantobank.app.shimantobankekyc&hl=en_GB" target="_blank">
+  <img align="left" alt="easyaccount" width="80px" src="https://play-lh.googleusercontent.com/oTIJ_5z_Y7yuSdj8osY8jxtYy7uwXiRsbm4_qgQ4dC3s_i04Y-AVSQ-MMsDjieE9PrA=w240-h480-rw" />
+</a>
+<br/><br/><br/><br/>
 <a href="https://play.google.com/store/apps/details?id=realestambul.app" target="_blank">
   <img align="left" alt="Real Estambul" width="80px" src="https://play-lh.googleusercontent.com/Xav-_mRdMUvDWCsxuV8hzE8Nf2Nig7cJ-HeRYUHzEnq5R7lZ_mElNuRCIp9404Nz=w480-h960-rw" />
 </a>
