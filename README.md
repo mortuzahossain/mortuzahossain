@@ -103,4 +103,7 @@ Hi, I'm [Mortuza Hossain!](https://mortuzahossain.github.io/), a passionate self
 - 🕸️ View my portfolio [Website](https://mortuzahossain.github.io/)
 
 ### :fire: My Stats :
-<p align="center"> <img src="http://github-readme-streak-stats.herokuapp.com?user=mortuzahossain&theme=dark&background=000000" alt="mortuzahossain" /></p> 
+<p align="center">
+    <img src="https://streak-stats.demolab.com/?user=mortuzahossain"/>
+</p>
+
