@@ -94,7 +94,7 @@ Hi, I'm [Mortuza Hossain!](https://mortuzahossain.github.io/), a passionate self
 <br/><br/><br/><br/><br/><br/>
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on Al-Arafah Islami Bank Limited :wink:
+- 👨🏽‍💻 I’m currently working on One Bank Limited :wink:
 - 🌱 I’m currently learning Asp .net MVC
 - 📝 Currently studying in Executive MSc in Computer Science at Comilla University
 - 💬 Ask me about anything, I am happy to help
